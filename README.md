@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Olá, sou @Felipejuniorfj
+👀 Estou interessado ...
+🌱 Atualmente estou aprendendo ...
+💞️ Estou procurando colaborar em ...
+📫 Como me encontrar ..### Hi there 👋
 
 <!--
 **Felipejuniorfj/Felipejuniorfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
